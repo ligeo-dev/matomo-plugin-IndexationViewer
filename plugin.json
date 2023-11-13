@@ -1,0 +1,29 @@
+{
+    "name": "IndexationViewer",
+    "description": "Show indexation statuses in Matomo administration",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.14.0,<6.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Kára Sibille",
+            "email": "kara.sibille@empreintedigitale.coop",
+            "homepage": "https://git.vtech.fr/k.sibille"
+        },
+        {
+            "name": "Valentin Baraise",
+            "email": "valentin.baraise@empreintedigitale.coop",
+            "homepage": "https://git.vtech.fr/valentin"
+        }
+    ],
+    "support": {
+        "email": "contact@empreintedigitale.coop",
+        "issues": "https://github.com/ligeo-dev/matomo-plugin-IndexationViewer/issues",
+        "source": "https://github.com/ligeo-dev/matomo-plugin-IndexationViewer"
+    },
+    "homepage": "https://developpement.ligeo.fr/",
+    "license": "GPL v3+",
+    "keywords": ["indexation",  "archive", "viewer", "diagnostic"]
+}

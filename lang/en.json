@@ -1,0 +1,22 @@
+{
+    "IndexationViewer": {
+        "PluginDescription": "Show indexation status.",
+        "IndexationViewer": "Indexation Viewer",
+        "IndexTitle": "Indexation Viewer",
+        "Status": "Status",
+        "AnyStatus": "Tous les status",
+        "SelectSegment": "Filter by segment",
+        "DefaultSegment": "All visits",
+        "SelectStatus": "Filter by status",
+        "StatusDoneOK": "OK",
+        "StatusDoneError": "Error",
+        "StatusDoneInvalidated": "Invalidated",
+        "StatusUnknown": "Unknown",
+        "SearchHelp":  "Search by name",
+        "SearchPattern": "Search pattern",
+        "Period": "Period",
+        "PeriodBeginDate": "Begin date",
+        "PeriodEndDate":  "End date",
+        "IndexedAt":  "Indexed at"
+    }
+}

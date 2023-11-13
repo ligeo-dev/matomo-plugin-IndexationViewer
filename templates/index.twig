@@ -1,0 +1,10 @@
+{% extends 'admin.twig' %}
+
+{% block topcontrols %}
+    {% include "@CoreHome/_siteSelectHeader.twig" %}
+    {% include "@CoreHome/_periodSelect.twig" %}
+{% endblock %}
+
+{% block content %}
+    <div vue-entry="IndexationViewer.IndexationViewer"></div>
+{% endblock %}
