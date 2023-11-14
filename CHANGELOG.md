@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
-## [0.1.0]
+## [0.1.0] - 2023-11-13
 
 ### Added
 
@@ -15,5 +15,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add a new administration page to list indexation statuses. Indexation
   statuses can be filtered by site, date and period, segment, and status ;
 
-[unreleased]: https://git.vtech.fr/matomo/indexation-viewer/-/compare/v0.1.0...HEAD
-[0.1.0]: https://git.vtech.fr/matomo/indexation-viewer/-/tags/0.1.0
+[unreleased]: https://github.com/ligeo-dev/matomo-plugin-IndexationViewer/compare/0.1.0...main
+[0.1.0]: https://github.com/ligeo-dev/matomo-plugin-IndexationViewer/releases/tag/0.1.0
